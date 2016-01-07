@@ -1,8 +1,16 @@
 Health
+------
 Technology
-Art
+------
+Art | Design
+------
 Financial
+------
 Relationship
+------
 Life
+------
 Family
+------
 Travel
+------
