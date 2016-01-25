@@ -1,16 +1,17 @@
-Health
+~~Health~~
 ------
-Technology
+~~Technology~~
 ------
-Art | Design
+~~Art | Design~~
 ------
-Financial
+~~Financial~~
 ------
-Relationship
+~~Relationship~~
 ------
-Life
+~~Life~~
 ------
-Family
+~~Family~~
 ------
-Travel
+~~Travel~~
 ------
+just get by
