@@ -14,4 +14,6 @@
 ------
 ~~Travel~~
 ------
-just get by
+
+focus on coding art
+------
